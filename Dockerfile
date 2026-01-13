@@ -1,4 +1,4 @@
-FROM mist/mistserver:latest
+FROM ddvtech/mistserver:latest
 
 # Zeabur pakai PORT env kadang untuk http service.
 # MistServer biasanya default port 4242 (web UI).
